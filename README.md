@@ -2,6 +2,8 @@
 
 *A pipeline for automated 3D instance segmentation of blob-like structures in X-ray image data.*
 
+![3D](https://github.com/sagar87/starXray/blob/main/img/3d_seg.png?raw=true)
+
 This GitHub repository provides a pipeline for automating the 3D segmentation of blob-like structures in X-ray image data.
 
 The workflow consists of two main steps:
